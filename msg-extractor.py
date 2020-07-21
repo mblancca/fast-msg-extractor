@@ -26,3 +26,5 @@ match = re.findall(regex, msg_message)
 for m in match:
     #print(m)
     f.write('<{}\n'.format(m))
+
+print('Done, check your directory for the results')
