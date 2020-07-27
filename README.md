@@ -1,5 +1,7 @@
 # fast-msg-extractor
-python script to quickly extract sender and email links for further analysis, using the library msg-extractor of mattgwwalker
+python script to quickly extract sender and email links for further analysis, using the library msg-extractor of mattgwwalker.
+
+¡! You need to install msg-extractor via: pip install extract-msg ¡!
 
 Usage:
 
